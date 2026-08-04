@@ -21,5 +21,3 @@ author = "魚子醬"
 - bilibili [**@C6H8FNO4**](https://space.bilibili.com/484915252/).
 - x [**@C6H8FNO4**](https://github.com/tonsky/FiraCode).
 - 酷安 [**C6H8FNO4**](https://www.coolapk.com/u/15615677).
-
-So, there you have it... enjoy!
