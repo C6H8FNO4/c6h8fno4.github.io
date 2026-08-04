@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://c6h8fno4.github.io/hugo/"
 locale = "en-us"
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5

@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/showcase/</loc>
+    <loc>http://localhost:1313/hugo/posts/hello/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo/posts/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo/showcase/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/"
-                />
+    <loc>http://localhost:1313/hugo/about/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/hello/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://localhost:1313/hugo/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:1313/hugo/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/hugo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/hugo/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/hugo/tags/"
                 />
   </url>
 </urlset>
