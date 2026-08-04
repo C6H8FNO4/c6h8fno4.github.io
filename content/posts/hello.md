@@ -1,8 +1,8 @@
 +++
 title = "Hello Friend"
-date = "2019-01-25"
+date = "2026-08-04"
 author = "Lorem Ipsum"
-cover = "/img/hello.jpg"
+cover = "/img/75513950.jpg"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
 +++
 

@@ -1,7 +1,8 @@
 baseurl = "https://example.com/"
-languageCode = "en-us"
+locale = "en-us"
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
+defaultContentLanguage = "zh"
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -35,6 +36,30 @@ pagination.pagerSize = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+  [languages.zh]
+    locale = "zh-cn"
+    title = '终端'
+    subtitle = "欢迎来到"
+    keywords = ""
+    copyright = ""
+    menuMore = "显示更多"
+    readMore = "阅读更多"
+    readOtherPosts = "阅读其他文章"
+
+    [languages.zh.params.logo]
+      logoText = "终端"
+      logoHomeLink = "/"
+
+    [languages.zh.menu]
+      [[languages.zh.menu.main]]
+        identifier = "about"
+        name = "关于"
+        url = "/about"
+      [[languages.zh.menu.main]]
+        identifier = "showcase"
+        name = "展示"
+        url = "/showcase"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
