@@ -30,13 +30,13 @@
     <loc>http://localhost:1313/hugo/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/hugo/categories/"
+                hreflang="en"
+                href="http://localhost:1313/hugo/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugo/en/categories/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/hugo/tags/</loc>
