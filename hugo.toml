@@ -36,6 +36,7 @@ defaultContentLanguage = "zh"
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+
   [languages.zh]
     locale = "zh-cn"
     title = '终端'
@@ -59,7 +60,18 @@ defaultContentLanguage = "zh"
         identifier = "showcase"
         name = "展示"
         url = "/showcase"
-
+      [[languages.zh.menu.main]]
+        identifier = "notes"
+        name = "笔记"
+        url = "/notes"
+      [[languages.zh.menu.main]]
+        identifier = "journal"
+        name = "日记"
+        url = "/journal"
+      [[languages.zh.menu.main]]
+        identifier = "发癫文案"
+        name = "发癫文案"
+        url = "/发癫文案"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
